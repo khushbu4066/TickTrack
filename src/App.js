@@ -46,7 +46,7 @@ const App = () => {
                         className="mb-2"
                         style={{backgroundColor: "#10101d", padding: ".5em"}}
                     >
-                        <Card.Header className="fw-bold" style={{fontSize:"20px"}}>TO DO LIST</Card.Header>
+                        <Card.Header className="fw-bold" style={{fontSize:"25px"}}>TO DO LIST</Card.Header>
                         <Card.Body>
                             <div className="add-task">
                                 <Form onSubmit={handleSubmit}>
