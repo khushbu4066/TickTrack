@@ -3,4 +3,5 @@ It is a dynamic React to-do list with the interactive interface. Let's continue 
 
 Here the interface of the TrickTrack webapp
 
-![TrickTrack](https://github.com/[khushbu4066]/[TrickTrack]/blob/[main]/tricktrack.png?raw=true)
+https://raw.githubusercontent.com/khushbu4066/TickTrack/main/path/to/ticktrack.png
+
